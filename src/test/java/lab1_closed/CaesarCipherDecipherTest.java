@@ -8,7 +8,7 @@ import java.util.Locale;
 
 public class CaesarCipherDecipherTest {
 
-    private final int offset = 3;
+    private final int offset = InitProperties.OFFSET;
 
     private final String originalText = InitProperties.ORIGINAL_TEXT;
 
