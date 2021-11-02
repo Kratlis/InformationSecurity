@@ -1,4 +1,4 @@
-package lab1_closed.utils;
+package lab1_closed_key.utils;
 
 import java.io.File;
 import java.io.IOException;

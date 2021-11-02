@@ -1,7 +1,7 @@
-package lab1_closed.utils;
+package lab1_closed_key.utils;
 
 import java.util.Arrays;
-import lab1_closed.UnknownLetter;
+import lab1_closed_key.UnknownLetter;
 
 // класс для работы с алфавитом
 public class Alphabet {

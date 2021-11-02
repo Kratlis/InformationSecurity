@@ -1,6 +1,6 @@
-package lab1_closed;
+package lab1_closed_key;
 
-import lab1_closed.utils.Alphabet;
+import lab1_closed_key.utils.Alphabet;
 
 public class CaesarCipher {
 

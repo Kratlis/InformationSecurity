@@ -1,4 +1,4 @@
-package lab1_closed;
+package lab1_closed_key;
 
 public class UnknownLetter extends RuntimeException {
 

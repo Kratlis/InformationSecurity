@@ -1,6 +1,6 @@
-package lab1_closed;
+package lab1_closed_key;
 
-import lab1_closed.utils.InitProperties;
+import lab1_closed_key.utils.InitProperties;
 import org.assertj.core.api.Assertions;
 import org.testng.annotations.Test;
 

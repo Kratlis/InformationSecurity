@@ -1,10 +1,10 @@
-package lab1_closed;
+package lab1_closed_key;
 
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 
-import lab1_closed.utils.Alphabet;
+import lab1_closed_key.utils.Alphabet;
 
 // класс для проведения частотного анализа
 public class FrequencyAnalysisDecipher {
